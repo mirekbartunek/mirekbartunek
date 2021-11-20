@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mirekbartunek
 - 👀 I’m interested in frontend website development
 - 🌱 I’m currently learning HTML, CSS, Java
-- 💞️ I’m looking to collaborate to learn more
 - 📫 Reach me at @Mucuscz on Twitter
 
 <!---
