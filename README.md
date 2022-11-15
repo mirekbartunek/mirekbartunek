@@ -1,7 +1,6 @@
-## Frontend/Backend Dev
-<hr>
-Frontend: HTML, CSS, JS
-
-Backend: Java, Python
-
-OS: macOS
+Mirek Bartuněk
+---
+- Frontend developer: HTML, CSS, JavaScript/TypeScript
+                              |
+                              |–> TailwindCSS
+- Backend: Java, Kotlin
