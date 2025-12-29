@@ -2,13 +2,6 @@
 
 **fullstack developer** who enjoys building things that ~~always~~ probably work
 
-```
-location: czech republic
-focus: modern web development
-vibe: clean code, bold ideas
-```
-
----
 
 ## ⚡ tech i work with
 
@@ -62,7 +55,6 @@ vibe: clean code, bold ideas
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" />
 
----
 
 ## 🔗 let's connect
 
@@ -72,8 +64,6 @@ vibe: clean code, bold ideas
 <a href="https://discord.com/users/mkb__">
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-
----
 
 <p align="center">
 <strong>「 building things that probably work 」</strong>
